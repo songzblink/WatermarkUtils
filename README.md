@@ -1,6 +1,6 @@
 # Auto-Watermark
 
-当前版本能够通过配置 `watermark.properties` 文件来设置水印自动添加，只需要按照指定的目录格式存放待添加水印图片，命令行复制如下命令 `java -jar .\AddWatermark.jar` ，即可生成带水印的目标图片。下一版本打算添加图片水印功能。
+当前版本能够通过配置 `watermark.properties` 文件来设置水印自动添加，只需要按照指定的目录格式存放待添加水印图片，命令行复制如下命令 `java -jar .\AddWatermark.jar` ，即可生成带水印的目标图片。源代码在 `src/` 目录下，下一版本打算添加图片水印功能。
 
 # 使用方式
 
