@@ -3,8 +3,11 @@
 
 # 目录结构
 |- watermark.properties  需要手动配置水印的内容、字体类型、字体样式、字体大小、字体颜色以及字体的位置
+
 |- AddWatermark.jar 打包好的程序代码
+
 |- images 将所有需要添加水印的图片放入该文件夹中
-  |- output 该文件夹自动生成，存放生成的带水印图片
+
+    |- output 该文件夹自动生成，存放生成的带水印图片
   
 # watermark.properties 配置详解
