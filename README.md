@@ -1,6 +1,6 @@
 # WatermarkUtils
 
-Java程序包，支持添加文字水印和图片水印。
+Java程序包，支持添加文字水印和图片水印。导入jar包`WatermarkUtils.jar` 即可使用。
 
 ## API
 

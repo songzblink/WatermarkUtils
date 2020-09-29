@@ -3,4 +3,5 @@ out/
 images/output/
 *.iml
 *.class
+src/WatermarkTest.java
 
